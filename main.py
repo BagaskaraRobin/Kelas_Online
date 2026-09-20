@@ -1,0 +1,1 @@
+print("Hari ini adalah hari yang cerah")
